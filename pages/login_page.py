@@ -2,10 +2,10 @@ from selenium.webdriver.common.by import By
 from pages.base_page import BasePage
 
 class LoginPage(BasePage):
-    URL = "https://secure.simplepractice.com/login"
+    URL = "https://www.simplepractice.com"
 
     USERNAME = (By.ID, "username")
-    PASSWORD = (By.ID, "password")
+    PASSWORD = (By.ID, "password") # testExecution0
     LOGIN_BTN = (By.ID, "login-button")
 
     def open(self):
