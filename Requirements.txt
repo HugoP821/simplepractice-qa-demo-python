@@ -1,5 +1,6 @@
 altgraph @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 attrs==25.3.0
+behave==1.2.6
 certifi==2025.7.14
 distlib==0.4.0
 exceptiongroup==1.3.0
@@ -11,6 +12,8 @@ iniconfig==2.1.0
 macholib @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 outcome==1.3.0.post0
 packaging==25.0
+parse==1.20.2
+parse_type==0.6.4
 platformdirs==4.3.8
 pluggy==1.6.0
 Pygments==2.19.2
